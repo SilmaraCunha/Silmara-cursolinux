@@ -1,0 +1,14 @@
+
+(1) Em 1991
+
+(2) Por Linus Torvalds
+
+(3) É o centro de todo sistema operacional, e tem a função de administrar os recursos do hardware de forma eficiente (disco, processador, memória e dispositivos periféricos). Fazendo uma ponte entre o hardware e os app.
+
+(4) É um projeto de software livre criado por Richard Stallman.
+
+(5) Software livre tem por objetivo permitir que as pessoas tenham acesso ao código fonte e possam estudar, modificar e redistribuir estes programas desde que permaneçam livres para serem alterados novamente, com o intuito de beneficiar a comunidade. Para ser considerado um software livre é necessário seguir as 4 liberdades estabelecidas pelo FSF (Free Software Foundation), sendo elas 0 Liberdade de executar o programa para qualquer fim, 1 Liberdade para estudar como o programa/codigo funciona, 2 liberdade de redistribuir cópias visando ajudar o próximo e 3 liberdade de modificar/aperfeiçoar o código e distribuir após a mudança com o intuito de ajudar a comunidade. Já o Opensource, embora tenha o código aberto e o usuário possa modifica-lo, é necessário seguir as determinações e condições do desenvolvedor original, tanto para uso quanto para distribuição.
+
+(6) Dar controle aos usuários que até então eram "controlados" por programas com tantas limitações. Para que com a liberdade de executar o programa como melhor te atende-se também pudesse beneficiar a comunidade com suas melhorias ou distribuição.
+
+(7) Acho que é benéfico para usuários avaçados e desenvolvedores, porém com o pouco que entendi até o momento, não acredito que faça muita diferença para o usuário comum.
